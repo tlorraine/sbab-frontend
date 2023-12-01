@@ -1,10 +1,10 @@
-# React + TypeScript + Vite
+# SBAB frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React + TypeScript + Vite
 
 ## Running the application
 
-In the project directory, you can run:
+### npm install
 
 ### npm run dev
 
